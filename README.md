@@ -13,7 +13,7 @@ Construir uma **API** com banco de dados de mulheres refugiadas desempregadas qu
 - [x] **U** - a API deve permitir alterações nos currículos;
 - [x] **D** - a API deve permitir a exclusão de currículos das candidatas do banco de dados.
 
-## Requisitos desejáveis (não implementados):
+### Requisitos desejáveis (não implementados):
 
 - [] Criação de usuário e login para admin e usuária com acesso sem restrição;
 - [] Criação de usuário e login para recrutador, com restrição de acesso (somente visualização e seleção).
