@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jessicacj/projeto-api_contrate-refugiada#readme",
   "dependencies": {
+    "dotenv-safe": "^6.1.0",
     "express": "^4.17.1",
     "mongoose": "^5.8.1"
   }
