@@ -3,7 +3,6 @@ Projeto Final elaborado para conclusão do Bootcamp de Desenvolvimento Back End 
 
 ## Objetivo
 
-Elaboração de uma **API** de Catálogo de Filmes com **Node.JS** e **MongoDB**.
 Construir uma **API** com banco de dados de mulheres refugiadas desempregadas que possibilite que essas mulheres se cadastrem para ficarem visíveis aos empregadores e, do outro lado, permita ao recrutador buscar candidatas que se adequem ao perfil esperado para vagas abertas em suas empresas.
 
 #### Requisitos obrigatórios:
