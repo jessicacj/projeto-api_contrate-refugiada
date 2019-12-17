@@ -1,0 +1,23 @@
+{
+  "name": "projeto-api_contrate-refugiada",
+  "version": "1.0.0",
+  "description": "Projeto Final elaborado para conclusão do Bootcamp de Desenvolvimento Back End da {reprograma}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicacj/projeto-api_contrate-refugiada.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicacj/projeto-api_contrate-refugiada/issues"
+  },
+  "homepage": "https://github.com/jessicacj/projeto-api_contrate-refugiada#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1"
+  }
+}

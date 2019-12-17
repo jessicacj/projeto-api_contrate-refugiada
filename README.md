@@ -34,7 +34,7 @@ Construir uma **API** com banco de dados de mulheres refugiadas desempregadas qu
 
 **git clone:**
 
-```git clone https://github.com/jessicacj/reprograma-api-sextou.git```
+```git clone https://github.com/jessicacj/projeto-api_contrate-refugiada.git```
 
 Caso utilize o NPM, após clonar o repositório para o seu diretório, dê o seguinte comando:
 
@@ -47,7 +47,6 @@ Se você está utilizando outro gerenciador de pacotes apenas altere o npm para 
 - GET "/" => rota inicial da API.
 - GET "candidatas/listar" => retorna todos os currículos cadastrados no banco de dados.
 - GET "candidatas/buscar/:id" => retorna um currículo pelo ID.
-- GET "candidatas/buscar/:profissao" => retorna um currículo pela profissão cadastrada.
 - POST "candidatas/adicionar" => adiciona um currículo ao banco de dados
 - PATCH "candidatas/alterar/:id" => busca um currículo pelo ID e atualiza.
 - DELETE "candidatas/deletar/:id" => busca um currículo pelo ID e exclui do banco de dados.
