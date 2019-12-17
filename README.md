@@ -15,8 +15,8 @@ Construir uma **API** com banco de dados de mulheres refugiadas desempregadas qu
 
 ### Requisitos desejáveis (não implementados):
 
-- [] Criação de usuário e login para admin e usuária com acesso sem restrição;
-- [] Criação de usuário e login para recrutador, com restrição de acesso (somente visualização e seleção).
+- [ ] Criação de usuário e login para admin e usuária com acesso sem restrição;
+- [ ] Criação de usuário e login para recrutador, com restrição de acesso (somente visualização e seleção).
 
 ### Ferramentas utilizadas
 
@@ -27,6 +27,8 @@ Construir uma **API** com banco de dados de mulheres refugiadas desempregadas qu
 **Banco de Dados**: MongoDB
 
 **IDE**: Visual Studio Code
+
+**O que é o**: Postman
 
 ### Instalação
 
